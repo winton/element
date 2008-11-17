@@ -1,0 +1,1 @@
+new El(<%= options.to_json %>);
